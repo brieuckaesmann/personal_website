@@ -24,13 +24,13 @@ repository               : "brieuckaesmann.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "The Greatest"
+  pronouns         : "GO/AT"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Paname city"
+  employer         : "Institut Pasteur"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "brieuc.kaesmann@pasteur.fr" 
 
   # Academic websites
   academia         : # URL
